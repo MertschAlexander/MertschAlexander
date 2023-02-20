@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Knewave';
+    src: url('Knewave-Regular.woff2') format('woff2'),
+         url('Knewave-Regular.woff') format('woff'),
+         url('Knewave-Regular.ttf') format('truetype');
+}
+}
+header{
+    font-family: Knewave;
+	color: white;
+	background-color: #FF2A6D;
+}
+nav{
+    font-family: Knewave;
+	background-color: #FF2A6D;
+	text-align: center;
+}
+nav a{
+    font-family: Knewave;
+	font-size: 30px;
+	margin: 20px;
+	color: white;
+	background-color: #FF2A6D;
+}
+body{
+    font-family: Knewave;
+	text-align: center;
+	color: white;
+	background-color: #01012B;
+}
