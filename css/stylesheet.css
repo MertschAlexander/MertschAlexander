@@ -4,6 +4,10 @@
          url('Knewave-Regular.woff') format('woff'),
          url('Knewave-Regular.ttf') format('truetype');
 }
+#WelcomeMessage{
+    font-size: 40px;
+	padding-top: 40px
+}
 header{
     font-family: Knewave;
 	color: white;
@@ -11,7 +15,7 @@ header{
 }
 nav{
     font-family: Knewave;
-	background-color: #FF2A6D;
+	background-color: #980A37;
 	text-align: center;
 }
 nav a{
@@ -19,11 +23,17 @@ nav a{
 	font-size: 30px;
 	margin: 20px;
 	color: white;
-	background-color: #FF2A6D;
+	background-color: #980A37;
 }
 body{
     font-family: Knewave;
 	text-align: center;
 	color: white;
 	background-color: #01012B;
+}
+aside{
+	background-color: #5B0520;
+}
+footer{
+	background-color: #FF2A6D;
 }
